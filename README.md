@@ -51,8 +51,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Luugallego17&theme=dark&hide_border=true&background=0c1033&stroke=a78bfa&ring=d946ef&fire=f472b6&currStreakLabel=f472b6&currStreakNum=e9d5ff&sideNums=e9d5ff&sideLabels=a78bfa&dates=8b8fc7" />
-  <!-- respaldo -->
-  <img style="display:none" src="https://github-readme-streak-stats.herokuapp.com/?user=Luugallego17&theme=dark&hide_border=true&background=0c1033&stroke=a78bfa&ring=d946ef&fire=f472b6&currStreakLabel=f472b6&currStreakNum=e9d5ff&sideNums=e9d5ff&sideLabels=a78bfa&dates=8b8fc7" />
 </p>
 
 ### `> contributions.map`
