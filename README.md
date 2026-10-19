@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Luna · terminal profile" width="100%" />
+  <img src="assets/hero.svg" alt="LUUU... · terminal profile" width="100%" />
 </p>
 
 <p align="center">
