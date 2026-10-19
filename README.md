@@ -25,6 +25,23 @@
   <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1033" />
 </p>
 
+### `> projects.list --featured`
+
+<table align="center">
+<tr>
+<td><a href="https://github.com/Luugallego17/Samay"><img src="assets/projects/Samay.svg" width="440" alt="Samay"/></a></td>
+<td><a href="https://github.com/Luugallego17/ROXO"><img src="assets/projects/ROXO.svg" width="440" alt="ROXO"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Luugallego17/TramiteFacil"><img src="assets/projects/TramiteFacil.svg" width="440" alt="TramiteFacil"/></a></td>
+<td><a href="https://github.com/Luugallego17/chagas-ECG-teachable-machine"><img src="assets/projects/chagas-ECG-teachable-machine.svg" width="440" alt="chagas-ECG-teachable-machine"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Luugallego17/Primer-Parcial-de-Arquitectura-de-Software"><img src="assets/projects/Primer-Parcial-de-Arquitectura-de-Software.svg" width="440" alt="Primer-Parcial-de-Arquitectura-de-Software"/></a></td>
+<td><a href="https://github.com/Luugallego17/Reconoce-el-Objeto"><img src="assets/projects/Reconoce-el-Objeto.svg" width="440" alt="Reconoce-el-Objeto"/></a></td>
+</tr>
+</table>
+
 ### `> stats --github`
 
 <p align="center">
