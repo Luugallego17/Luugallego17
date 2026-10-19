@@ -1,57 +1,56 @@
-<h1 align="center">🌸 Hola, soy Luna 🌸</h1>
-
-<h3 align="center">💕 Estudiante de Ingeniería en Inteligencia Artificial 💕 🇧🇴</h3>
-
 <p align="center">
-  <i>Universidad Católica Boliviana "San Pablo" · Santa Cruz de la Sierra</i>
+  <img src="assets/hero.svg" alt="Luna · terminal profile" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/hecha%20de-💖%20código%20y%20café-ffb3c6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IA-Ingenier%C3%ADa-d946ef?style=for-the-badge&labelColor=0c1033" />
+  <img src="https://img.shields.io/badge/Data%20Science-a78bfa?style=for-the-badge&labelColor=0c1033" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-f472b6?style=for-the-badge&labelColor=0c1033" />
+  <img src="https://img.shields.io/badge/Optimizaci%C3%B3n-8b5cf6?style=for-the-badge&labelColor=0c1033" />
 </p>
 
----
+### `> about.sh`
 
-### 🎀 Sobre mí
-
-- 🎓 Estudiando **Ingeniería en Inteligencia Artificial**
+- 🎓 Estudiando **Ingeniería en Inteligencia Artificial** en la UCB "San Pablo" 🇧🇴
 - 🌷 Me apasiona la **ciencia de datos, la optimización y el aprendizaje automático**
 - 🌱 Ahora profundizando en estructuras de datos y metodología de investigación
-- 💡 También exploro proyectos de emprendimiento con enfoque en tecnología y sostenibilidad
-- 💌 ¿Quieres colaborar o conversar? Escríbeme abajo 👇
+- 💡 Exploro proyectos de emprendimiento con enfoque en tecnología y sostenibilidad
 
----
+### `> stack.list`
 
-### 🧁 Tecnologías y herramientas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-ffafcc?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-ffc8dd?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-cdb4db?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-bde0fe?style=for-the-badge&logo=github&logoColor=black" />
+<p>
+  <img src="https://img.shields.io/badge/C++-d946ef?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0c1033" />
+  <img src="https://img.shields.io/badge/Python-a78bfa?style=for-the-badge&logo=python&logoColor=white&labelColor=0c1033" />
+  <img src="https://img.shields.io/badge/Git-f472b6?style=for-the-badge&logo=git&logoColor=white&labelColor=0c1033" />
+  <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1033" />
 </p>
 
----
-
-### 📊 Mis estadísticas en GitHub
+### `> stats --github`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luugallego17&theme=material-palenight&hide_border=true&background=FFF0F5&stroke=FF8FAB&ring=FF8FAB&fire=FF6FA5&currStreakLabel=FF6FA5" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luugallego17&show_icons=true&hide_border=true&bg_color=0c1033&title_color=f472b6&text_color=c4b5fd&icon_color=d946ef&ring_color=a78bfa" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luugallego17&layout=compact&hide_border=true&bg_color=0c1033&title_color=f472b6&text_color=c4b5fd" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Luugallego17&theme=dark&hide_border=true&background=0c1033&stroke=a78bfa&ring=d946ef&fire=f472b6&currStreakLabel=f472b6&currStreakNum=e9d5ff&sideNums=e9d5ff&sideLabels=a78bfa&dates=8b8fc7" />
+  <!-- respaldo -->
+  <img style="display:none" src="https://github-readme-streak-stats.herokuapp.com/?user=Luugallego17&theme=dark&hide_border=true&background=0c1033&stroke=a78bfa&ring=d946ef&fire=f472b6&currStreakLabel=f472b6&currStreakNum=e9d5ff&sideNums=e9d5ff&sideLabels=a78bfa&dates=8b8fc7" />
+</p>
 
-### 💌 Contáctame
+### `> contributions.map`
 
-<p align="left">
+<p align="center">
+  <img src="https://ghchart.rshah.org/a78bfa/Luugallego17" alt="contribuciones" width="100%" />
+</p>
+
+### `> connect --all`
+
+<p>
   <a href="https://www.linkedin.com/in/luna-saleth-gallego-mart%C3%ADnez-a951a9344/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ff8fab?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-d946ef?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1033" />
   </a>
   <a href="mailto:lunagallego2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffb3c6?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1033" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✨-gracias%20por%20pasar%20por%20aquí-ffc8dd?style=for-the-badge" />
 </p>
