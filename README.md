@@ -33,7 +33,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luugallego17&theme=dark&hide_border=true&background=0c1033&stroke=a78bfa&ring=d946ef&fire=f472b6&currStreakLabel=f472b6&currStreakNum=e9d5ff&sideNums=e9d5ff&sideLabels=a78bfa&dates=8b8fc7" />
+  <img src="https://streak-stats.demolab.com/?user=Luugallego17&theme=dark&hide_border=true&background=0c1033&stroke=a78bfa&ring=d946ef&fire=f472b6&currStreakLabel=f472b6&currStreakNum=e9d5ff&sideNums=e9d5ff&sideLabels=a78bfa&dates=8b8fc7" />
+  <!-- respaldo -->
+  <img style="display:none" src="https://github-readme-streak-stats.herokuapp.com/?user=Luugallego17&theme=dark&hide_border=true&background=0c1033&stroke=a78bfa&ring=d946ef&fire=f472b6&currStreakLabel=f472b6&currStreakNum=e9d5ff&sideNums=e9d5ff&sideLabels=a78bfa&dates=8b8fc7" />
+</p>
+
+### `> contributions.map`
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/a78bfa/Luugallego17" alt="contribuciones" width="100%" />
 </p>
 
 ### `> connect --all`
